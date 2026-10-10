@@ -1,0 +1,17 @@
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\bin\Debug\net8.0-windows\WinFormsApp5.4.exe
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\bin\Debug\net8.0-windows\WinFormsApp5.4.deps.json
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\bin\Debug\net8.0-windows\WinFormsApp5.4.runtimeconfig.json
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\bin\Debug\net8.0-windows\WinFormsApp5.4.dll
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\bin\Debug\net8.0-windows\WinFormsApp5.4.pdb
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5._4.Form1.resources
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.csproj.GenerateResource.cache
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.AssemblyInfoInputs.cache
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.AssemblyInfo.cs
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.csproj.CoreCompileInputs.cache
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.dll
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\refint\WinFormsApp5.4.dll
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.pdb
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinFormsApp5.4.genruntimeconfig.cache
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\ref\WinFormsApp5.4.dll
+C:\Users\tungl\source\repos\WinFormsApp5.4\WinFormsApp5.4\obj\Debug\net8.0-windows\WinForms.5C55C4FE.Up2Date
